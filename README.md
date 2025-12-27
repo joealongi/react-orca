@@ -1,8 +1,8 @@
-![React Orca Banner](https://raw.githubusercontent.com/heyitsjoealongi/react-orca/master/public/react-orca.png)
+![React Orca Banner](https://raw.githubusercontent.com/joealongi/react-orca/master/public/react-orca.png)
 
 # React Orca
 
-![Version](https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000) [![License: MIT ](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/heyitsjoealongi/react-orca/blob/master/LICENSE)
+![Version](https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000) [![License: MIT ](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/joealongi/react-orca/blob/master/LICENSE)
 
 React Orca for building lightweight applications in [React](https://react.dev/), [Next](https://vercel.com/), JavaScript, and CSS (Template) deployed on [AWS Amplify](https://aws.amazon.com/amplify/), this configuration available by [Open Source](https://opensource.org/).
 
@@ -19,12 +19,12 @@ React Orca for building lightweight applications in [React](https://react.dev/),
 
 React Orca is a template for React & Next.js built to deploy on AWS Amplify.
 
-![GitHub stars](https://img.shields.io/github/stars/heyitsjoealongi/react-orca?style=social) ![Twitter Follow](https://img.shields.io/twitter/follow/heyitsjoealongi?label=Follow&style=social)
+![GitHub stars](https://img.shields.io/github/stars/joealongi/react-orca?style=social) ![Twitter Follow](https://img.shields.io/twitter/follow/joealongi?label=Follow&style=social)
 
--   Website: [heyitsjoealongi.com](https://heyitsjoealongi.com/)
--   X: [@heyitsjoealongi](https://twitter.com/heyitsjoealongi/)
--   GitHub: [@heyitsjoealongi](https://github.com/heyitsjoealongi/)
--   LinkedIn: [@heyitsjoealongi](https://www.linkedin.com/in/heyitsjoealongi/)
+- Website: [joealongi.dev](https://joealongi.dev/)
+- X: [@joealongi](https://x.com/joealongi)
+- GitHub: [@joealongi](https://github.com/joealongi/)
+- LinkedIn: [@joe-alongi](https://www.linkedin.com/in/joe-alongi/)
 
 ## Build
 
@@ -53,14 +53,14 @@ This project runs on Node while the DOM UI elements are established using React 
 
 ### Installation
 
--   **Option 1.)** [Download the latest version of this template from GitHub](https://github.com/heyitsjoealongi/react-orca/archive/master.zip)
+-   **Option 1.)** [Download the latest version of this template from GitHub](https://github.com/joealongi/react-orca/archive/master.zip)
 -   **Option 2.)** Clone this repository
 
 ```
-    git clone https://github.com/heyitsjoealongi/react-orca.git
+    git clone https://github.com/joealongi/react-orca.git
 ```
 
--   **Option 3.)** [Fork, Clone, or Download via GitHub Desktop](x-github-client://openRepo/https://github.com/heyitsjoealongi/react-orca)
+-   **Option 3.)** [Fork, Clone, or Download via GitHub Desktop](x-github-client://openRepo/https://github.com/joealongi/react-orca)
 
 ### Basic Usage
 
@@ -86,7 +86,7 @@ npm run build
 
 ##### Bugs and Issues
 
-Having an issue with the template? Report bugs & issues with React Orca on GitHub via [Issues](https://github.com/heyitsjoealongi/react-orca/issues). Fork, Pull, or Send an email over to join as a contributor! Join in on the open source conversation on [X](https://x.com/heyitsjoealongi).
+Having an issue with the template? Report bugs & issues with React Orca on GitHub via [Issues](https://github.com/joealongi/react-orca/issues). Fork, Pull, or Send an email over to join as a contributor! Join in on the open source conversation on [X](https://x.com/joealongi).
 
 ##### Acknowledgments
 
@@ -97,4 +97,4 @@ Having an issue with the template? Report bugs & issues with React Orca on GitHu
 
 ##### License
 
-© 2024 React Orca released via [MIT](https://opensource.org/licenses/MIT) license. Information on this license can be viewed as it applies to this repository on GitHub at [React Orca License](https://github.com/heyitsjoealongi/react-orca/blob/master/LICENSE).
+© 2024 React Orca released via [MIT](https://opensource.org/licenses/MIT) license. Information on this license can be viewed as it applies to this repository on GitHub at [React Orca License](https://github.com/joealongi/react-orca/blob/master/LICENSE).
